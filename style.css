@@ -1,0 +1,15 @@
+.bulb{
+    height: 100px;
+    width: 100px;
+    /* background-color: yellow; */
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+}
+.btnOn{
+    height: 40px;
+    width: 50px;
+    font-size: 18px;
+    margin: 20px 20px;
+   
+}
